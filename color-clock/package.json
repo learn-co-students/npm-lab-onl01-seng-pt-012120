@@ -1,0 +1,14 @@
+{
+    "name": "color-clock",
+    "version": "1.0.0",
+    "description": "clolck color changes every second",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'Do not sweat it, you are doing great!'"
+    },
+    "author": "vanessa",
+    "license": "ISC",
+    "dependencies": {
+        "moment": "^2.28.0"
+    }
+}
